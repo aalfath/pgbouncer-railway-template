@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.26.1-1 (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template (`pgbouncer-1`). No change to the image or configuration.
+
 ## 1.26.1 (2026-11-16)
 
 - First release of the template: PgBouncer 1.26.1 built from the official release tarball on `debian:trixie-slim` (digest-pinned), with Railway Postgres.
